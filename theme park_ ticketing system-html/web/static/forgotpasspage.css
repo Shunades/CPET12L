@@ -1,0 +1,140 @@
+.forgotpasspage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.forgotpasspage-forgotpasspage {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.forgotpasspage-backgroundlogin {
+  top: 0px;
+  left: 720px;
+  width: 720px;
+  height: 1024px;
+  position: absolute;
+}
+.forgotpasspage-rectangle8 {
+  top: 241px;
+  left: 156px;
+  width: 461px;
+  height: 541px;
+  position: absolute;
+  border-radius: 30px;
+}
+.forgotpasspage-frame10 {
+  gap: 12px;
+  top: 390px;
+  left: 228px;
+  width: 362px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.forgotpasspage-text1 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.forgotpasspage-frame8 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.forgotpasspage-text3 {
+  color: rgba(0, 0, 0, 1);
+  width: 244px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.forgotpasspage-frame9 {
+  gap: 12px;
+  top: 488px;
+  left: 228px;
+  width: 343px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.forgotpasspage-text5 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.forgotpasspage-email-text {
+  width: auto;
+  height: 50px;
+  align-self: stretch;
+  border-radius: 10px;
+}
+.forgotpasspage-frame12 {
+  gap: 10px;
+  top: 671px;
+  left: 290px;
+  width: 193px;
+  height: 49px;
+  display: flex;
+  padding: 7px 36px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: rgba(245, 245, 245, 1);
+}
+.forgotpasspage-text7 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.forgotpasspage-image1 {
+  top: 260px;
+  left: 324px;
+  width: 119px;
+  height: 123px;
+  position: absolute;
+}
